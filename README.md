@@ -32,6 +32,4 @@ After successful startup, the service will be available at `http://localhost:POR
 
 Additional documentation on available endpoints and service functionalities can be found in the source code and accompanying comments.
 
-## License
 
-[MIT License](LICENSE)
